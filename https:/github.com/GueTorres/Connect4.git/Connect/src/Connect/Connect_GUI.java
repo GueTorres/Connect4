@@ -25,8 +25,8 @@ public class Connect_GUI extends JFrame{
 	private Player player2;
 	
 	public Connect_GUI(){
-		player1 = new Player("Wonderwoman", "W");
-		player2 = new Player("Catwoman", "C");
+		player1 = new Player("Sienna", "S");
+		player2 = new Player("Kerillian", "K");
 		currPlayer = player1;
 		
 		jpMain = new JPanel();
