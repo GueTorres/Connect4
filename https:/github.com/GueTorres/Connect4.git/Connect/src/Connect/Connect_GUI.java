@@ -135,6 +135,9 @@ public class Connect_GUI extends JFrame{
 					board[row][col].setEnabled(true);//re-enable
 				}
 			}
+			for(int i = 0; i < gravity.length; i++){
+				gravity[i] = 5;
+			}
 		}
 
 		@Override
