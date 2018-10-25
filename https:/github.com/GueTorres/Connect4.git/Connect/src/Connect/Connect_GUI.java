@@ -245,9 +245,9 @@ public class Connect_GUI extends JFrame{
 		
 		
 		
-	}//end of TTTBoard class
+	}
 	
 	
 	
 	
-}//end of TTT_GUI class
+}//end
